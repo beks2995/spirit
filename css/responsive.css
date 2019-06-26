@@ -1,0 +1,282 @@
+
+@media (max-width: 768px) {
+    .logo{
+        font-size: 20px;
+    }
+    .list-item{
+        font-size: 14px;
+        margin: 12px 0;
+    }
+    .header-title{
+        font-size: 35px;
+    }
+    .header-content p{
+        font-size: 14px;
+    }
+    .about-text p{
+        font-size: 24px;
+    }
+    .about-title p span{
+        font-size: 24px;
+    }
+    .box-light-2 h4{
+        font-size: 19px;
+    }
+    .title-light h3{
+        font-size: 21px;
+    }
+    .title-light:before{
+        width: 80px;
+        height: 3px;
+        top: 42px;
+    }
+    .title-light:after{
+        width: 57px;
+        height: 3px;
+        top: 54px;
+    }
+    .about-title{
+        font-size: 15px;
+    }
+    section{
+        padding: 60px 0;
+    }
+    .title-light h4{
+        font-size: 14px;
+    }
+    .box-light h4{
+        font-size: 16px;
+    }
+    .box-light p{
+        font-size: 12px;
+    }
+    .list-item2{
+        font-size: 12px;
+        margin-right: 20px;
+    }
+    .list-item2 span{
+        width: 1px;
+        height: 18px;
+        margin-left: 9px;
+    }
+    .filter{
+        font-size: 14px;
+    }
+    .cover1{
+        bottom: -100%;
+        padding: 0;
+    }
+    .text-box{
+        font-size: 16px;
+        padding: 105px 0;
+    }
+    .text-box h3{
+        font-size: 22px;
+        padding-top: 20px;
+    }
+    .btn{
+        margin: 15px 0 30px;
+        padding: 5px 40px;
+    }
+    .icon-bot{
+        padding: 3px 7px;
+        margin: 4px 10px;
+    }
+    .cover1{
+        font-size: 17px;
+    }
+    .cover1 p{
+        font-size: 25px;
+    }
+    .cover1 h4{
+        font-size: 29px;
+        padding-top: 90px;
+    }
+    img{
+        width: 100%;
+        height: 100%;
+    }
+    .clients-logo{
+        text-align: center;
+    }
+    .nav-light{
+        flex-direction: column;
+        padding-top: 65px;
+        align-items: flex-start;
+    }
+    .icon-bot{
+        width: 30px;
+        height: 30px;
+        margin: 10px 10px;
+        font-size: 18px;
+    }
+    .response{
+        position: relative;
+        display: inline-block;
+        background: none;
+        border: none;
+        padding: 0;
+        transition: 0.5s;
+    }
+    .list-items{
+        display: none;
+    }
+    .line{
+    position: relative;
+    left: 0;
+    display: block;
+    width: 35px;
+    height: 3px;
+    background: #fcac45;
+    margin: 7px 3px;
+    transition: 0.5s;
+    }
+    }
+
+
+@media (max-width: 375px) {
+    .logo{
+        font-size: 18px;
+    }
+    .list-item{
+        font-size: 11px;
+        margin-right: 10px;
+    }
+    .header-title{
+        font-size: 28px;
+    }
+    .header-content p{
+        font-size: 13px;
+    }
+    .about-text h5{
+        font-size: 14px
+    }
+    .about-text p{
+        font-size: 18px;
+    }
+    .about-title p span{
+        font-size: 18px;
+    }
+    .options{
+        font-size: 13px;
+    }
+    .options span{
+        font-size: 13px;
+    }
+    .box-light-2 h4{
+        font-size: 12px;
+    }
+    .title-light h3{
+        font-size: 16px;
+    }
+    .title-light:before{
+        width: 53px;
+        height: 2px;
+        top: 29px;
+    }
+    .title-light:after{
+        width: 34px;
+        height: 2px;
+        top: 37px;
+    }
+    .about-title{
+        font-size: 12px;
+    }
+    section{
+        padding: 35px 0;
+    }
+    .title-light h4{
+        font-size: 12px;
+    }
+    .box-light h4{
+         font-size: 12px;
+     }
+    .box-light p{
+        font-size: 12px;
+    }
+    .box-light-2 h4{
+        font-size: 12px;
+    }
+    .box-light-2 p{
+        font-size: 12px;
+    }
+    .list-item2{
+        font-size: 11px;
+        margin-right: 5px;
+    }
+    .list-item2 span{
+        width: 1px;
+        height: 14px;
+        margin-left: 5px;
+    }
+    .filter{
+        font-size: 13px;
+    }
+    .cover1{
+        bottom: -100%;
+        padding: 0;
+    }
+    .list-item2{
+        font-size: 10px;
+        margin-right: 10px;
+    }
+    .text-box{
+        font-size: 13px;
+        padding: 60px 0;
+    }
+    .text-box h3{
+        font-size: 16px;
+        padding-top: 10px;
+    }
+    .btn{
+        margin: 15px 0 30px;
+        padding: 5px 40px;
+    }
+    .icon-bot{
+        padding: 3px 7px;
+        margin: 4px 10px;
+    }
+    .cover1{
+        font-size: 17px;
+    }
+    .cover1 p{
+        font-size: 18px;
+    }
+    .cover1 h4{
+        font-size: 20px;
+        padding-top: 80px;
+    }
+    img{
+        width: 100%;
+        height: 100%;
+    }
+    .clients-logo{
+        padding-top: 45px;
+    }
+    .logotip{
+        margin: 20px;
+    }
+    .nav-light{
+        flex-direction: column;
+        align-items: flex-start;
+        padding-top: 50px;
+    }
+    .icons{
+        margin-right: 2px;
+    }
+    .icon-bot{
+        width: 27px;
+        height: 27px;
+        margin: 10px 10px;
+        font-size: 14px;
+    }
+    .about-btn{
+        margin-top: unset;
+    }
+    .srvs{
+        width: 90px;
+        height: 90px;
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+}
